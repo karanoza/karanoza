@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Developer, Content writer, and Knowledge enthusiast!
 
-- 🔭 I’m currently working on a MEAN stack!
+- 🔭 I’m currently working on MEAN stack!
 - 🌱 I’m currently learning everything 🤣
 - 📝 Working on my articles and published it soon.
 - 🥅 2020 Goals: Willing to enroute my career path.
