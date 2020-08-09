@@ -35,7 +35,7 @@
 
 ---
 
-📝<img align="left" alt="karan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=karanoza&show_icons=true&hide_border=true" />
+<img align="left" alt="karan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=karanoza&show_icons=true&hide_border=true" />
 
 [website]: https://ngkaran.com
 [twitter]: https://twitter.com/OzaKaran
