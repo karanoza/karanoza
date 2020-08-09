@@ -4,10 +4,12 @@
 
 - 🔭 I’m currently working on a MEAN stack!
 - 🌱 I’m currently learning everything 🤣
-- 👯 Workink on my articles and published it soon.
+- 📝 Working on my articles and published it soon.
 - 🥅 2020 Goals: Willing to enroute my career path.
 - ✅ Able to quickly embrace new ideas and methods.
 - ⚡ Fun fact: Love to explore new places - Yup I'm Traveller
+
+---
 
 ### Connect with me:
 
@@ -17,6 +19,8 @@
 [<img align="left" alt="__mr.beardo__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
