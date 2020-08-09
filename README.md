@@ -20,17 +20,17 @@
 
 ### Languages and Tools:
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/html5.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/css3.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/bootstrap.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/javascript.svg" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/typescript.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/angular.svg" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/node.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/mongo.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/materialize.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/git.png" width="40px" height="50px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML Guide" title="HTML5"  src="/icons/github.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML5" title="HTML5"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="css" title="css"  src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="bootstrap" title="bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="javascript" title="javascript"  src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="typescript title="typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="angular" title="angular"  src="https://angular.io/assets/images/logos/angular/angular.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="nodejs" title="nodejs"  src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="mongodb" title="mongodb"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTIVWXqfXCp4a2GzVEJF-1mFitkeyF_NGmrA&usqp=CAU" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="materialize" title="materialize"  src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="git" title="git"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="40px" height="50px" >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="git hub" title="git hub"  src="https://www.vhv.rs/file/max/36/362967_github-icon-png.png" width="40px" height="50px" >](https://code.visualstudio.com/)
 
 <br />
 <br />
