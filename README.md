@@ -7,7 +7,7 @@
 - 📝 Visit DEV for my articles.
 - 🥅 2020 Goals: Willing to enroute my career path.
 - ✅ Able to quickly embrace new ideas and methods.
-- ⚡ Fun fact: Love to explore new places - Yup I'm Traveller
+- ⚡ Fun fact: Love to explore new places - Yup I'm Traveller✈️
 
 ---
 
@@ -35,6 +35,7 @@
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="nodejs" title="nodejs"  src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px"  >](https://code.visualstudio.com/)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="mongodb" title="mongodb"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTIVWXqfXCp4a2GzVEJF-1mFitkeyF_NGmrA&usqp=CAU" width="40px"  >](https://code.visualstudio.com/)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="materialize" title="materialize"  src="https://colinstodd.com/images/posts/matcss-min.png" width="40px"  >](https://code.visualstudio.com/)
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="firebase" title="firebase"  src="https://ih1.redbubble.net/image.489553250.2202/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="40px"  >](https://code.visualstudio.com/)
 
 <br />
 <br />
