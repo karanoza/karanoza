@@ -17,6 +17,7 @@
 [<img align="left" alt="ozakaran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="karanoza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="__mr.beardo__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dev" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />][devblog]
 
 <br />
 
@@ -61,3 +62,4 @@
 [twitter]: https://twitter.com/OzaKaran
 [instagram]: https://instagram.com/__mr.beardo__
 [linkedin]: https://linkedin.com/in/karanoza
+[devblog]: https://dev.to/ozakaran
