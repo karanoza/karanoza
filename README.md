@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on MEAN stack!
 - 🌱 I’m currently learning everything 🤣
-- 📝 Working on my articles and published it soon.
+- 📝 Visit DEV for my articles.
 - 🥅 2020 Goals: Willing to enroute my career path.
 - ✅ Able to quickly embrace new ideas and methods.
 - ⚡ Fun fact: Love to explore new places - Yup I'm Traveller
