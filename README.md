@@ -2,6 +2,8 @@
 
 ## I'm a Front-End Developer, Blogger, and Knowledge enthusiast!
 
+<img alt="cover" src="https://github.com/karanoza/karanoza/blob/master/icons/Karan's%20HUb.png" />
+
 - 🔭 I’m currently working on MEAN stack!
 - 🌱 I’m currently learning everything 🤣
 - 📝 Visit DEV for my articles.
