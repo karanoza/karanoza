@@ -63,3 +63,7 @@
 [instagram]: https://instagram.com/__mr.beardo__
 [linkedin]: https://linkedin.com/in/karanoza
 [devblog]: https://dev.to/ozakaran
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/karanoza/count.svg)
