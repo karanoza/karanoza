@@ -1,5 +1,8 @@
 ### Hi there, I'm Karan - aka [ngkaran][website] 👋
 
+
+[![karanoza](https://github.com/karanoza/karanoza/blob/master/icons/karan.gif)](https://twitter.com/ozakaran)
+
 ## I'm a Front-End Developer, Blogger, and Knowledge enthusiast!
 
 - 🔭 I’m currently working on MEAN stack!
