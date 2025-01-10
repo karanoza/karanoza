@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MEAN stack!
 - 🌱 I’m currently learning everything 🤣
 - 📝 Visit DEV for my articles.
-- 🥅 2020 Goals: Willing to enroute my career path.
+- 🥅 2025 Goals: Adding React in my techstack.
 - ✅ Able to quickly embrace new ideas and methods.
 - ⚡ Fun fact: Love to explore new places - Yup I'm Traveller✈️
 
@@ -32,7 +32,6 @@
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML5" title="HTML5"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40px"  >](https://www.w3schools.com/html/default.asp)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="css" title="css"  src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" width="40px"  >](https://www.w3schools.com/css/default.asp)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="bootstrap" title="bootstrap"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="40px"  >](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="javascript" title="javascript"  src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="40px"  >](https://www.w3schools.com/js/default.asp)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="angular" title="angular"  src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="40px"  >](https://angular.io/)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="angular" title="angular"  src="https://angular.io/assets/images/logos/angular/angular.png" width="40px"  >](https://angular.io/)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="nodejs" title="nodejs"  src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px"  >](https://nodejs.dev/learn/nodejs-streams)
