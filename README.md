@@ -47,7 +47,7 @@
 
 [website]: https://ngkaran.com
 [twitter]: https://twitter.com/OzaKaran
-[instagram]: https://instagram.com/__mr.beardo__
+[instagram]: https://instagram.com/the_nomadic_soul_
 [linkedin]: https://linkedin.com/in/karanoza
 [devblog]: https://dev.to/ozakaran
 
