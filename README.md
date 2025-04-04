@@ -45,7 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://ngkaran.com
+[website]: https://linkedin.com/in/karanoza
 [twitter]: https://twitter.com/OzaKaran
 [instagram]: https://instagram.com/the_nomadic_soul_
 [linkedin]: https://linkedin.com/in/karanoza
