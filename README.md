@@ -1,7 +1,7 @@
 ### Hi there, I'm Karan - aka [ngkaran][website] 👋
 
 
-[![karanoza](https://github.com/karanoza/karanoza/blob/master/icons/karancover.gif)](https://twitter.com/ozakaran)
+[![karanoza](https://github.com/karanoza/karanoza/blob/master/icons/github_cover.png)](https://twitter.com/ozakaran)
 
 ## I'm a Front-End Developer, Blogger, and Knowledge enthusiast!
 
