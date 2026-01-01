@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MEAN stack!
 - 🌱 I’m currently learning everything 🤣
 - 📝 Visit DEV for my articles.
-- 🥅 2025 Goals: Adding React in my techstack.
+- 🥅 2026 Goals: Adding AI-ML in my techstack.
 - ✅ Able to quickly embrace new ideas and methods.
 - ⚡ Fun fact: Love to explore new places - Yup I'm Traveller✈️
 
