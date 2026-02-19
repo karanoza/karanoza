@@ -24,7 +24,7 @@
 
 ---
 
-## Connect with me:
+## 🌐 Connect with me:
 
 [<img align="left" alt="ngkaran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ozakaran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -65,6 +65,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanoza&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karanoza/karanoza/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 📊 Top Languages
 
@@ -77,6 +81,7 @@
 [devblog]: https://dev.to/ozakaran
 
 ---
+
 
 ## 👀 Profile Visitors
 
