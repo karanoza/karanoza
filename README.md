@@ -44,9 +44,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanoza&show_icons=true&theme=radical&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karanoza&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical&cache_seconds=60)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical)
+
 
 
 [website]: https://linkedin.com/in/karanoza
