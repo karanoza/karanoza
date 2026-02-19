@@ -35,7 +35,8 @@
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="angular" title="angular"  src="https://angular.io/assets/images/logos/angular/angular.png" width="40px"  >](https://angular.io/)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="nodejs" title="nodejs"  src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px"  >](https://nodejs.dev/learn/nodejs-streams)
 [<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="mongodb" title="mongodb"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTIVWXqfXCp4a2GzVEJF-1mFitkeyF_NGmrA&usqp=CAU" width="40px"  >](https://www.mongodb.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="mongodb" title="mongodb"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" width="40px" >]
+[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="React" title="mongodb"  src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp" width="40px" >](https://react.dev/)
+
 <br />
 <br />
 
