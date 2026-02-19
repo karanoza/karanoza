@@ -1,20 +1,30 @@
-### Hi there, I'm Karan - aka [ngkaran][website] 👋
+<h1 align="center">
+  Hi 👋 I'm Karan Oza
+</h1>
+
+<h3 align="center">
+  Frontend Engineer | MEAN Stack Developer | Future AI Builder 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=06B6D4&center=true&vCenter=true&width=600&lines=Angular+Specialist;MEAN+Stack+Developer;Frontend+Architecture+Enthusiast;AI+Integration+Explorer;Tech+Blogger+on+DEV.to" />
+</p>
 
 
 [![karanoza](https://github.com/karanoza/karanoza/blob/master/icons/github_cover.png)](https://twitter.com/ozakaran)
 
 ## I'm a Front-End Developer, Blogger, and Knowledge enthusiast!
 
-- 🔭 I’m currently working on MEAN stack!
-- 🌱 I’m currently learning everything 🤣
-- 📝 Visit DEV for my articles.
-- 🥅 2026 Goals: Adding AI-ML in my techstack.
-- ✅ Able to quickly embrace new ideas and methods.
-- ⚡ Fun fact: Love to explore new places - Yup I'm Traveller✈️
+🔭 Currently building scalable applications using MEAN Stack
+🌱 Exploring AI/ML integration into Frontend & Web Apps
+🧠 Passionate about clean architecture & performance optimization
+✍️ I write technical blogs to simplify complex concepts
+⚡ Quick learner who adapts fast to new technologies
+✈️ Fun Fact: When I'm not coding, I'm exploring new places
 
 ---
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="ngkaran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ozakaran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -26,31 +36,39 @@
 
 ---
 
-### Languages and Tools:
 
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="vs code" title="vscode"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40px" >](https://code.visualstudio.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="HTML5" title="HTML5"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40px"  >](https://www.w3schools.com/html/default.asp)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="css" title="css"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8HLXf0MICvg195NxJ8jbQ69mmhI9Y3GSFA&s" width="40px"  >](https://www.w3schools.com/css/default.asp)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="css" title="css"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="40px"  >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="angular" title="angular"  src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="40px"  >](https://angular.io/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="angular" title="angular"  src="https://angular.io/assets/images/logos/angular/angular.png" width="40px"  >](https://angular.io/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="nodejs" title="nodejs"  src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px"  >](https://nodejs.dev/learn/nodejs-streams)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="mongodb" title="mongodb"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTIVWXqfXCp4a2GzVEJF-1mFitkeyF_NGmrA&usqp=CAU" width="40px"  >](https://www.mongodb.com/)
-[<img  align="left" style="margin-left: 5px; display: inline-block; padding: 5px;" alt="React" title="mongodb"  src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp" width="40px" >](https://react.dev/)
+## 🛠 Languages & Tools
 
-<br />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,scss" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb" />
+</p>
+
+### Tools & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,jest" />
+</p>
+
 <br />
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://karanoza-readme-stats.vercel.app/api?username=karanoza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
-  <img src="https://karanoza-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanoza&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 
+## 📊 Top Languages
+
+<img src="https://karanoza-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 [website]: https://linkedin.com/in/karanoza
 [twitter]: https://twitter.com/OzaKaran
