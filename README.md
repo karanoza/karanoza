@@ -42,7 +42,12 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanoza&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical)
+
 
 [website]: https://linkedin.com/in/karanoza
 [twitter]: https://twitter.com/OzaKaran
@@ -51,5 +56,8 @@
 [devblog]: https://dev.to/ozakaran
 
 ---
-### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/karanoza/count.svg)
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+
