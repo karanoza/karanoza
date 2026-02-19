@@ -44,9 +44,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karanoza&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://karanoza-readme-stats.vercel.app/api?username=karanoza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+  <img src="https://karanoza-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 
 
