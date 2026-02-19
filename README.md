@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanoza&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanoza&show_icons=true&theme=radical&cache_seconds=60)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanoza&layout=compact&theme=radical&cache_seconds=60)
 
 
 [website]: https://linkedin.com/in/karanoza
@@ -59,5 +59,5 @@
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=karanoza&style=for-the-badge)
 
