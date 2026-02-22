@@ -15,12 +15,12 @@
 
 ## I'm a Front-End Developer, Blogger, and Knowledge enthusiast!
 
-- 🔭 Currently building scalable applications using React
-- 🌱 Exploring AI/ML integration into Frontend & Web Apps
-- 🧠 Passionate about clean architecture & performance optimization
-- ✍️ I write technical blogs to simplify complex concepts
-- ⚡ Quick learner who adapts fast to new technologies
-- ✈️ Fun Fact: When I'm not coding, I'm exploring new places
+- 🔭 Currently building scalable applications using React.
+- 🌱 Exploring AI/ML integration into Frontend & Web Apps.
+- 🧠 Passionate about clean architecture & performance optimization.
+- ✍️ I write technical blogs to simplify complex concepts.
+- ⚡ Quick learner who adapts fast to new technologies.
+- ✈️ Fun Fact: When I'm not coding, I'm exploring new places.
 
 ---
 
